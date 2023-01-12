@@ -1,3 +1,7 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+1. provider封装。
+2. 内容复制。
+3. 手机屏幕布局信息封装。
+
+> 第一次发布，持续开发中。
